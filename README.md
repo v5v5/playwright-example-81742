@@ -9,7 +9,7 @@
 ## Playwright 'Getting started'
 https://playwright.dev/docs/intro
 
-## Install playwright
+## Install Playwright
 npm i -D @playwright/test
 
 ## Install supported browsers
