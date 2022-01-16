@@ -23,5 +23,5 @@ npm install typescript
 - `npm i` to install all
 - `npx playwright test` to run tests
 
-## Videotutorial
+## Video tutorial
 https://www.youtube.com/watch?v=1PBTAssPFEA&t=5209s&ab_channel=HillelITSchool
