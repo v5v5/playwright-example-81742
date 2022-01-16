@@ -1,0 +1,17 @@
+{
+  "name": "xxx-23070",
+  "version": "1.0.0",
+  "description": "playwright-example xxx",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xxx",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.17.2"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
